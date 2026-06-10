@@ -1,87 +1,98 @@
 # Hi there, I'm Rajwar88 👋
 
-Welcome to my GitHub profile! I'm a full-stack developer with expertise in web development, combining creative frontend design with robust backend solutions. I love building user-centric applications that make a difference.
+**Senior Technical Writer & Full-Stack Developer**
+
+Welcome to my GitHub profile! I'm a Senior Technical Writer with deep expertise in web development, combining technical documentation excellence with robust full-stack solutions. I specialize in creating clear, impactful documentation while building user-centric applications.
 
 ## 🚀 About Me
 
-I'm passionate about crafting elegant solutions to complex problems. My work spans across modern web technologies, with a particular focus on creating seamless user experiences. I'm committed to writing clean, maintainable code and continuously expanding my technical knowledge.
+I'm passionate about bridging the gap between complex technical concepts and clear communication. My unique background as a Senior Technical Writer combined with full-stack development skills allows me to create not just functional code, but well-documented, maintainable solutions that teams can understand and build upon.
 
-- 🔭 Full-stack web developer with a passion for innovation
-- 🌱 Constantly exploring new technologies and best practices
-- 💡 Interested in JavaScript frameworks, responsive design, and interactive applications
-- 🎨 Focused on creating beautiful and functional web experiences
-- 📫 Let's connect and build something amazing together!
+- 📝 Senior Technical Writer with a developer's mindset
+- 🔭 Full-stack web developer with JavaScript and Python expertise
+- 🌱 Continuously exploring emerging technologies and documentation best practices
+- 💡 Focused on creating clear, accessible documentation and beautiful web experiences
+- 🎨 Passionate about user-centered design and technical excellence
+- 📫 Let's connect and create something meaningful together!
 
 ## 💼 Technical Skills
 
-### Languages & Frameworks
+### Core Expertise
+- **Technical Writing** - API documentation, developer guides, technical specifications, knowledge bases
 - **JavaScript** - Primary language across multiple projects (51-45.5% of codebase)
-- **HTML & CSS** - Modern web markup and styling expertise
-- **Python** - Backend and scripting capabilities
-- **TeX** - Technical documentation and academic writing
+- **HTML & CSS** - Modern web markup, responsive design, accessibility
+- **Python** - Backend scripting and automation
 
-### Web Development Stack
-- **Frontend**: JavaScript, HTML, CSS, responsive design
-- **Full-Stack Development**: Multi-language project experience
-- **Technologies**: Interactive web applications, documentation systems, data visualization
+### Technology Stack
+- **Frontend**: JavaScript, HTML, CSS, responsive design patterns
+- **Full-Stack Development**: Multi-language project integration
+- **Documentation Tools**: TeX, Markdown, technical content management
+- **Backend & Scripting**: Python, PowerShell
 
 ### Core Competencies
+- Technical documentation and content strategy
 - Full-stack web development
+- API documentation and developer experience
 - Frontend UI/UX implementation
-- Cross-language integration
-- Technical documentation
-- Responsive and adaptive design
+- Cross-functional communication
+- Knowledge management and information architecture
 
 ## 🎯 Featured Projects
 
 ### CareerForge
-A modern web application built with JavaScript, HTML, and CSS. This project showcases my ability to create interactive, user-friendly interfaces with a clean tech stack.
+A modern web application showcasing my full-stack capabilities with JavaScript, HTML, and CSS. This project demonstrates my ability to create interactive, user-friendly interfaces with clean, maintainable code.
 - **Tech Stack**: JavaScript (51%), HTML (35.7%), CSS (13.3%)
-- **Focus**: Frontend development, user experience, interactive features
+- **Focus**: Frontend development, user experience, interactive web applications
 - **Repository**: [CareerForge](https://github.com/Rajwar88/CareerForge)
 
 ### supreme-parakeet
-A sophisticated full-stack project combining multiple technologies. This demonstrates versatility across frontend and backend technologies with technical documentation.
+A sophisticated full-stack project combining multiple technologies. This demonstrates my versatility across frontend and backend technologies, with a strong emphasis on technical documentation and knowledge sharing.
 - **Tech Stack**: TeX (37.1%), Python (16.4%), JavaScript (15.6%), CSS (16.5%), HTML (10.9%), PowerShell (3.5%)
-- **Highlights**: Full-stack development, technical writing, cross-platform scripting
+- **Highlights**: Full-stack development, technical writing, documentation, cross-platform scripting
 - **Repository**: [supreme-parakeet](https://github.com/Rajwar88/supreme-parakeet)
 
 ## 📊 Development Profile
 
-**Primary Focus**: Web Development & Frontend Engineering
-- Strong proficiency in JavaScript ecosystem
-- Expertise in semantic HTML and modern CSS techniques
+**Professional Focus**: Technical Writing + Web Development
+- Expert in creating clear, comprehensive technical documentation
+- Strong proficiency in JavaScript and modern web technologies
+- Expertise in semantic HTML and CSS best practices
 - Comfortable with full-stack development including Python backends
-- Experience with technical documentation tools
+- Experience with documentation tools and technical content management
 
 **Technology Distribution**:
-- **Frontend Technologies**: JavaScript, HTML, CSS (dominates my portfolio)
+- **Frontend Technologies**: JavaScript, HTML, CSS
 - **Backend & Scripting**: Python, PowerShell
-- **Documentation**: TeX for technical content
+- **Documentation & Technical Content**: TeX, Markdown
 
 ## 🤝 Let's Connect
 
-I'm always excited about new opportunities and collaborations!
+I'm always excited about collaboration opportunities, especially in technical writing, developer documentation, and web development projects!
 
 - **GitHub**: [@Rajwar88](https://github.com/Rajwar88)
-- **Email**: [Your email here]
-- **LinkedIn**: [Your LinkedIn profile]
-- **Portfolio**: [Your website/portfolio]
+- **LinkedIn**: [Prakash Rajwar](https://www.linkedin.com/in/prakash-rajwar88/)
+- **Portfolio**: [prakash92.netlify.app](https://prakash92.netlify.app/)
 
 ## 💬 What I'm Passionate About
 
-- 🌐 Creating responsive, accessible web applications
-- 🔧 Building full-stack solutions that solve real problems
-- 📚 Technical documentation and knowledge sharing
+- 📝 Creating clear, accessible, and comprehensive technical documentation
+- 🌐 Building responsive, intuitive web applications
+- 🔧 Developing full-stack solutions that solve real problems
+- 📚 Knowledge sharing and developer education
 - 🎨 User-centered design and frontend innovation
-- 🚀 Staying current with web development trends
+- 🚀 Staying current with web development and documentation trends
+- 💡 Improving developer experience through better docs and code
+
+## 📖 My Philosophy
+
+Great code deserves great documentation. I believe in the power of clear communication to make technology more accessible and understandable for everyone. Whether I'm writing API docs, building web applications, or creating developer guides, my goal is always to make complex concepts simple and actionable.
 
 ---
 
 <div align="center">
 
-**Thank you for visiting my profile! Explore my repositories to see what I'm working on. I'm always open to collaboration, feedback, and interesting projects.** ⭐
+**Thank you for visiting my profile! Explore my repositories to see my work in technical writing and web development. I'm always open to collaboration, feedback, and exciting new projects.** ⭐
 
-Feel free to reach out – I'd love to connect!
+**[Visit My Portfolio](https://prakash92.netlify.app/) • [Connect on LinkedIn](https://www.linkedin.com/in/prakash-rajwar88/) • [Explore My Repos](https://github.com/Rajwar88?tab=repositories)**
 
 </div>
