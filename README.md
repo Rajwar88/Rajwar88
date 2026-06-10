@@ -76,10 +76,7 @@ I'm always excited about collaboration opportunities, especially in technical wr
 ## 💬 What I'm Passionate About
 
 - 📝 Creating clear, accessible, and comprehensive technical documentation
-- 🌐 Building responsive, intuitive web applications
-- 🔧 Developing full-stack solutions that solve real problems
 - 📚 Knowledge sharing and developer education
-- 🎨 User-centered design and frontend innovation
 - 🚀 Staying current with web development and documentation trends
 - 💡 Improving developer experience through better docs and code
 
