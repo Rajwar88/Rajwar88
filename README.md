@@ -1,6 +1,6 @@
 # Hi there, I'm Rajwar88 👋
 
-**Senior Technical Writer & Full-Stack Developer**
+**Senior Technical Writer**
 
 Welcome to my GitHub profile! I'm a Senior Technical Writer with deep expertise in web development, combining technical documentation excellence with robust full-stack solutions. I specialize in creating clear, impactful documentation while building user-centric applications.
 
